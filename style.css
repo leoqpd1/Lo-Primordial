@@ -21,7 +21,7 @@ body {
     background-image: linear-gradient(
         rgba(0,0,0,0.7),
         rgba(0,0,0,0.7)),
-        url(https://github.com/leoqpd1/Lo-Primordial/blob/main/images/fondo.png);
+        url(main/images/fondo.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
